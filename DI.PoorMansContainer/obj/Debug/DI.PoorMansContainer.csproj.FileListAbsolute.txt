@@ -1,0 +1,6 @@
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.PoorMansContainer\bin\Debug\DI.PoorMansContainer.exe.config
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.PoorMansContainer\bin\Debug\DI.PoorMansContainer.exe
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.PoorMansContainer\bin\Debug\DI.PoorMansContainer.pdb
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.PoorMansContainer\obj\Debug\DI.PoorMansContainer.csprojResolveAssemblyReference.cache
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.PoorMansContainer\obj\Debug\DI.PoorMansContainer.exe
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.PoorMansContainer\obj\Debug\DI.PoorMansContainer.pdb

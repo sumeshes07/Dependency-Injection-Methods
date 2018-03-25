@@ -1,0 +1,9 @@
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Ninject\bin\Debug\DI.Ninject.exe.config
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Ninject\bin\Debug\DI.Ninject.exe
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Ninject\bin\Debug\DI.Ninject.pdb
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Ninject\bin\Debug\Ninject.dll
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Ninject\bin\Debug\Ninject.pdb
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Ninject\bin\Debug\Ninject.xml
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Ninject\obj\Debug\DI.Ninject.csprojResolveAssemblyReference.cache
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Ninject\obj\Debug\DI.Ninject.exe
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Ninject\obj\Debug\DI.Ninject.pdb

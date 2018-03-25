@@ -1,0 +1,9 @@
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.MEF\bin\Debug\DI.MEF.exe.config
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.MEF\bin\Debug\DI.MEF.exe
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.MEF\bin\Debug\DI.MEF.pdb
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.MEF\bin\Debug\MefContrib.dll
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.MEF\bin\Debug\MefContrib.pdb
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.MEF\bin\Debug\MefContrib.xml
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.MEF\obj\Debug\DI.MEF.csprojResolveAssemblyReference.cache
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.MEF\obj\Debug\DI.MEF.exe
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.MEF\obj\Debug\DI.MEF.pdb

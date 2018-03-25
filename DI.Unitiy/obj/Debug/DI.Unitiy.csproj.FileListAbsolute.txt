@@ -1,0 +1,10 @@
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Unitiy\bin\Debug\DI.Unitiy.exe.config
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Unitiy\bin\Debug\DI.Unitiy.exe
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Unitiy\bin\Debug\DI.Unitiy.pdb
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Unitiy\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Unitiy\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Unitiy\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Unitiy\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Unitiy\obj\Debug\DI.Unitiy.csprojResolveAssemblyReference.cache
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Unitiy\obj\Debug\DI.Unitiy.exe
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.Unitiy\obj\Debug\DI.Unitiy.pdb

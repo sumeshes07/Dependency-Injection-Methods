@@ -1,0 +1,9 @@
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.StructureMap\bin\Debug\DI.StructureMap.exe.config
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.StructureMap\bin\Debug\DI.StructureMap.exe
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.StructureMap\bin\Debug\DI.StructureMap.pdb
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.StructureMap\bin\Debug\StructureMap.dll
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.StructureMap\bin\Debug\StructureMap.pdb
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.StructureMap\bin\Debug\StructureMap.xml
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.StructureMap\obj\Debug\DI.StructureMap.csprojResolveAssemblyReference.cache
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.StructureMap\obj\Debug\DI.StructureMap.exe
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.StructureMap\obj\Debug\DI.StructureMap.pdb

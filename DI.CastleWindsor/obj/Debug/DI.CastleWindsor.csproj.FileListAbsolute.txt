@@ -1,0 +1,10 @@
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.CastleWindsor\bin\Debug\DI.CastleWindsor.exe.config
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.CastleWindsor\bin\Debug\DI.CastleWindsor.exe
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.CastleWindsor\bin\Debug\DI.CastleWindsor.pdb
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.CastleWindsor\bin\Debug\Castle.Core.dll
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.CastleWindsor\bin\Debug\Castle.Windsor.dll
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.CastleWindsor\bin\Debug\Castle.Core.xml
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.CastleWindsor\bin\Debug\Castle.Windsor.xml
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.CastleWindsor\obj\Debug\DI.CastleWindsor.csprojResolveAssemblyReference.cache
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.CastleWindsor\obj\Debug\DI.CastleWindsor.exe
+C:\Users\exp\Desktop\DIMocks-master\DIMocks-master\DI.CastleWindsor\obj\Debug\DI.CastleWindsor.pdb
